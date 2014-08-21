@@ -2,7 +2,10 @@ pullrequesttest
 ===============
 
 - yamanetoshi
+- hondatadakatu
+- hondamasyosi
 - hondatadakatu    kesita.
 -yosino
-- ryouji
+- ryouji_s
+- aaa
 -tuika1
