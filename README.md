@@ -8,4 +8,3 @@ pullrequesttest
 -yosino
 - ryouji_s
 - aaa
--tuika
