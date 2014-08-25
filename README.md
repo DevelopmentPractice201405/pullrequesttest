@@ -3,3 +3,4 @@ pullrequesttest
 
 - yamanetoshi
 - hondatadakatu
+-yosino
