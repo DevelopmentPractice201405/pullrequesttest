@@ -2,5 +2,5 @@ pullrequesttest
 ===============
 
 - yamanetoshi
-- hondatadakatu & Oshiroshogo .
+- hondatadakatu    kesita.
 -yosino
