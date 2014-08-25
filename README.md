@@ -4,4 +4,4 @@ pullrequesttest
 - yamanetoshi
 - hondatadakatu    kesita.
 -yosino
-- ryouji
+- ryouji_s
